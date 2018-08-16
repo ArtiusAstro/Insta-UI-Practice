@@ -35,7 +35,7 @@ public class BottomNavViewHelper {
                     case R.id.ic_home:
                         Intent intent0 = new Intent(context, HomeActivity.class);
                         context.startActivity(intent0);
-                        break; //test
+                        break;
 
                     case R.id.ic_search:
                         Intent intent1 = new Intent(context, SearchActivity.class);
