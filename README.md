@@ -1,2 +1,2 @@
 # Seven
-android app
+isnrta ui clone
