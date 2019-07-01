@@ -1,2 +1,1 @@
-# Seven
-isnrta ui clone
+Practicing UI with Insta as inspiration 
